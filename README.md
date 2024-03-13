@@ -23,21 +23,21 @@ $$R = \frac{V_{DD}}{I_H + I_L}$$
 
 Para determinar la resistencia del N se hace de la siguiente manera:
 
-$$\frac{1.8 \text{V}}{475 \times 10^{-6} \text{A/um} + 0} = 10526.31  \Omega$$
+$$\frac{1.8 \text{V}}{475 \times 10^{-6} \text{A/um} + 0} = 10526.31 \Omega$$
 
 Y la del P quedria:
 
-$$\frac{1.8 \text{V}}{170 \times 10^{-6} \text{A/um} + 0} = 13931.89  \Omega$$
+$$\frac{1.8 \text{V}}{170 \times 10^{-6} \text{A/um} + 0} = 13931.89 \Omega$$
 
 Ahora para determinar la resistencia unitaria se debe de multiplicar por por el ancho usado en este caso 0.36 \mu m para el N y 0.76 para el P 
 
-$$R_{\text{eeff}} = 10526.31 \Omega \times 0.36 \mu m$$
+$$R_{\text{nueff}} = 10526.31 \Omega \times 0.36 \mu m$$
 
-$$R_{\text{eeff}} = 3789.47 \frac{\Omega}{\mu m}$$
+$$R_{\text{nueff}} = 3789.47 \frac{\Omega}{\mu m}$$
 
-$$R_{\text{eeff}} = 13931.89 \\Omega \times 0.72 \mu m$$
+$$R_{\text{pueff}} = 13931.89 \\Omega \times 0.72 \mu m$$
 
-$$R_{\text{eeff}} = 10030.96 \frac{\Omega}{\mu m}$$
+$$R_{\text{pueff}} = 10030.96 \frac{\Omega}{\mu m}$$
 
 Ahora bien para calcular las capacitancias se puede determinar de la siguiente manera, siendo la más pesimista
 
@@ -45,13 +45,23 @@ $$C_{gs} = W_{dib} \times L_{dib} \times C_{OX}$$
 
 La capacitancia del N queda de la siguiente manera:
 
-$$0.36 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-6} \text{A/um} = 5.48 \times 10^{-16} F $$
+$$0.36 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-15} \text{A/um} = 5.48 \times 10^{-16} F $$
 
 Y la del P:
 
-$$0.72 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-6} \text{A/um} = 5.48 \times 10^{-16} F $$
+$$0.72 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-15} \text{A/um} = 11.55 \times 10^{-16} F $$
 
+Para calcular los tiempos se utiliza la siguiente formula:
 
+$$\tau = 3 \cdot R \cdot C$$
+
+Para el N:
+
+$$3 \times 10526.31 \Omega \times 5.48 \times 10^{-16} F = 17.3 \, \text{ps}$$
+
+Para el P:
+
+$$3 \times 13931.89 \Omega \times 11.55 \times 10^{-16} F = 48.07 \, \text{ps}$$
 
 ## Parte 2:
 
