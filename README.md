@@ -12,11 +12,11 @@ Para la primera parte se determinaron la resistencia del transistor de tipo N y 
 $$\( \frac{V_{DD}}{2 \cdot I_{DSAT}} \)$$ 
 
 Para el N quedaría de la siguiente manera:
-$$\frac{1.8 \, \text{V}}{2 \cdot 475 \times 10^{-6} \, \text{A/um} \times 0.36 \, \mu m}$$
+$$\frac{1.8 \, \text{V}}{2 \cdot 475 \times 10^{-6} \, \text{A/um} \times 0.36 \, \mu m} = 5263.16 \, \Omega$$
 
 
 Para el P quedaría de la siguiente manera:
-$$\frac{1.8 \, \text{V}}{2 \cdot 170 \times 10^{-6} \, \text{A/um} \times 0.72 \, \mu m}$$
+$$\frac{1.8 \, \text{V}}{2 \cdot 170 \times 10^{-6} \, \text{A/um} \times 0.72 \, \mu m} = 5263.16 \, \Omega$$
 
 
 
