@@ -29,6 +29,20 @@ Y la del P quedria:
 
 $$\frac{1.8 \text{V}}{170 \times 10^{-6} \text{A/um} + 0} = 13931.89  \Omega$$
 
+Ahora bien para calcular las capacitancias se puede determinar de la siguiente manera, siendo la más pesimista
+
+$$C_{gs} = W_{dib} \times L_{dib} \times C_{OX}$$
+
+La capacitancia del N queda de la siguiente manera:
+
+$$0.36 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-6} \text{A/um} = 5.48 \times 10^{-16} F $$
+
+Y la del P:
+
+$$0.72 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-6} \text{A/um} = 5.48 \times 10^{-16} F $$
+
+
+
 ## Parte 2:
 
 
