@@ -11,11 +11,11 @@ Para la primera parte se determinaron la resistencia del transistor de tipo N y 
 $$\ R = \frac{V_{DD}}{2 \cdot I_{DSAT}} \ $$ 
 
 Para el N quedaría de la siguiente manera:
-$$\frac{1.8 \text{V}}{2 \cdot 475 \times 10^{-6} \text{A/um} \times 0.36 \mu m} = 5263.16  \Omega$$
+$$\frac{1.8 \text{V}}{2 \cdot 475 \times 10^{-6} \text{A/um} \cdot 0.36 \mu m} = 5263.16  \Omega$$
 
 
 Para el P quedaría de la siguiente manera:
-$$\frac{1.8 \text{V}}{2 \cdot 170 \times 10^{-6} \text{A/um} \times 0.72 \mu m} = 6965.94  \Omega$$
+$$\frac{1.8 \text{V}}{2 \cdot 170 \times 10^{-6} \text{A/um} \cdot 0.72 \mu m} = 6965.94  \Omega$$
 
 Utilizando la otra formula:
 
@@ -23,46 +23,45 @@ $$R = \frac{V_{DD}}{I_H + I_L}$$
 
 Para determinar la resistencia del N se hace de la siguiente manera:
 
-$$\frac{1.8 \text{V}}{{475 \times 10^{-6} \text{A/um}} \times 0.36 \mu m}  = 10526.31 \Omega$$
+$$\frac{1.8 \text{V}}{{475 \times 10^{-6} \text{A/um}} \cdot 0.36 \mu m}  = 10526.31 \Omega$$
 
 Y la del P quedria:
 
-$$\frac{1.8 \text{V}}{{170 \times 10^{-6} \text{A/um}} \times 0.72 \mu m} = 13931.89 \Omega$$
+$$\frac{1.8 \text{V}}{{170 \times 10^{-6} \text{A/um}} \cdot 0.72 \mu m} = 13931.89 \Omega$$
 
 Ahora para determinar la resistencia unitaria se debe de multiplicar por por el ancho usado en este caso 0.36 \mu m para el N y 0.76 para el P 
 
-$$R_{\text{nueff}} = 10526.31 \Omega \times 0.36 \mu m$$
+$$R_{\text{nueff}} = 10526.31 \Omega \cdot 0.36 \mu m$$
 
 $$R_{\text{nueff}} = 3789.47 \frac{\Omega}{\mu m}$$
 
-$$R_{\text{pueff}} = 13931.89 \\Omega \times 0.72 \mu m$$
+$$R_{\text{pueff}} = 13931.89 \\Omega \cdot 0.72 \mu m$$
 
 $$R_{\text{pueff}} = 10030.96 \frac{\Omega}{\mu m}$$
 
 Ahora bien para calcular las capacitancias se puede determinar de la siguiente manera, siendo la más pesimista
 
-$$C_{gs} = W_{dib} \times L_{dib} \times C_{OX}$$
+$$C_{gs} = W_{dib} \cdot L_{dib} \cdot C_{OX}$$
 
 La capacitancia del N queda de la siguiente manera:
 
-$$0.36 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-15} \text{A/um} = 5.48 \times 10^{-16} F $$
+$$0.36 \mu m \cdot 0.18 \mu m \cdot 8.46 \times 10^{-15} \text{A/um} = 5.48 \times 10^{-16} F $$
 
 Y la del P:
 
-$$0.72 \mu m \times 0.18 \mu m \times 8.46 \times 10^{-15} \text{A/um} = 11.55 \times 10^{-16} F $$
+$$0.72 \mu m \cdot 0.18 \mu m \cdot 8.46 \times 10^{-15} \text{A/um} = 11.55 \times 10^{-16} F $$
 
 Para calcular los tiempos se utiliza la siguiente formula:
 
-$$\tau = 3 \times R \times C$$
+$$\tau = 3 \cdot R \cdot C$$
 
 Para el N:
 
-$$3 \times 10526.31 \Omega \times 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
+$$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
 
 Para el P:
 
-$$3 \times 13931.89 \Omega \times 11.55 \times 10^{-16} F = 48.07 \ \text{ps}$$
-
+$$3 \cdot 13931.89 \Omega \cdot 11.55 \times 10^{-16} F = 48.07 \ \text{ps}$$
 ## Parte 2:
 
 
