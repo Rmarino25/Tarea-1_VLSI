@@ -64,10 +64,6 @@ Para el P:
 $$3 \cdot 13931.89 \Omega \cdot 11.55 \times 10^{-16} F = 48.07 \ \text{ps}$$
 ## Parte 2:
 
-
-\[
-\frac{V_{DD}}{2 \cdot I_{DSAT}}
-\]
 ## Datos Relevantes
 ### Para generar listas
 * Punto 1
