@@ -8,7 +8,7 @@ En la segunda parte, se diseñará un inversor mínimo con margen de ruido simé
 ## Parte 1:
 Para la primera parte se determinaron la resistencia del transistor de tipo N y el de tipo P de tamaño mínimo, se realizó de la siguiente manera:
 
-$$\ \frac{V_{DD}}{2 \cdot I_{DSAT}} \ = R$$ 
+$$\ R = \frac{V_{DD}}{2 \cdot I_{DSAT}} \ $$ 
 
 Para el N quedaría de la siguiente manera:
 $$\frac{1.8 \text{V}}{2 \cdot 475 \times 10^{-6} \text{A/um} \times 0.36 \mu m} = 5263.16  \Omega$$
@@ -19,7 +19,7 @@ $$\frac{1.8 \text{V}}{2 \cdot 170 \times 10^{-6} \text{A/um} \times 0.72 \mu m} 
 
 Utilizando la otra formula:
 
-$$\frac{V_{DD}}{I_H + I_L} = R$$
+$$R = \frac{V_{DD}}{I_H + I_L}$$
 
 Para determinar la resistencia del N se hace de la siguiente manera:
 
