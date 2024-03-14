@@ -70,6 +70,7 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb)
 
 
+
 ## Datos Relevantes
 ### Para generar listas
 * Punto 1
