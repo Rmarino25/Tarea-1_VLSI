@@ -91,6 +91,21 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e"/>
 </p>
 
+Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2/1 y se encontraron los tiempos de retardo, tanto de bajada como de subida.
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/95561c92-9deb-4d0f-ab96-0c87133ee8c2"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/8cf57f1d-4042-458b-8551-d7e78e301c2d"/>
+</p>
+
+ Ya teniendo los resultados del FO4, se varió la relación de tamaño p/n, obteniedo así diferentes valores de retardo para cada uno. Estos comportamientos se graficaron mediante un script de python, evidenciando la diferencia que existe en los tiempos de retardo.
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/3c271f1d-368f-4707-8a12-c6a5449f3967"/>
+</p>
 
 ## Datos Relevantes
 ### Para generar listas
