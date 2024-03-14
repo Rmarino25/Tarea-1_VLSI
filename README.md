@@ -49,7 +49,7 @@ $$0.36 \mu m \cdot 0.18 \mu m \cdot 8.46 \times 10^{-15} \text{A/um} = 5.48 \tim
 
 Y la del P:
 
-$$0.72 \mu m \cdot 0.18 \mu m \cdot 8.46 \times 10^{-15} \text{A/um} = 11.55 \times 10^{-16} F $$
+$$0.72 \mu m \cdot 0.18 \mu m \cdot 8.91 \times 10^{-15} \text{A/um} = 11.55 \times 10^{-16} F $$
 
 Para calcular los tiempos se utiliza la siguiente formula:
 
