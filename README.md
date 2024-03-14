@@ -69,11 +69,13 @@ Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño
 En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamiento "macro" del inversor.
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb)
 
-Ahora bien analizando la corriente que pasa por el transistor de tipo N, la podemos graficar de la siguiente manera:
+Ahora bien analizando la corriente que pasa por el transistor de tipo N, la podemos graficar la curva característivca de la siguiente manera:
 ![curva](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/ce6679be-bba1-4808-a52b-e00c02c8c602)
 
-Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de la relación de tamaño entre el transistor p y el n. Esta relación se encontró alrededor de 2.8 veces el tamaño del transistor p con respecto al n. Se encontró que al aumentar más la relación de 2.8/1 se reduce el tiempo de subida pero se empieza a aumentar el tiempo de bajada, perdiendo así la idea de que los dos tiempos, tanto el de subida como bajada, sean lo más cercanos posibles. Los tiempos obtenidos tanto en simulación como mediante hspice se pueden ver en las siguientes figuras. 
+Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de la relación de tamaño entre el transistor p y el n. Esta relación se encontró alrededor de 2.8 veces el tamaño del transistor p con respecto al n. Se encontró que al aumentar más la relación de 2.8/1 se reduce el tiempo de subida pero se empieza a aumentar el tiempo de bajada, perdiendo así la idea de que los dos tiempos, tanto el de subida como bajada, sean lo más cercanos posibles. Los tiempos obtenidos tanto en simulación como mediante hspice se pueden ver en las siguientes figuras.
+
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c)
+
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e)
 
 ## Datos Relevantes
