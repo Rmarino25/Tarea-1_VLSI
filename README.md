@@ -35,7 +35,7 @@ $$R_{\text{nueff}} = 10526.31 \Omega \cdot 0.36 \mu m$$
 
 $$R_{\text{nueff}} = 3789.47 \frac{\Omega}{\mu m}$$
 
-$$R_{\text{pueff}} = 13931.89 \\Omega \cdot 0.72 \mu m$$
+$$R_{\text{pueff}} = 14705.88 \\Omega \cdot 0.72 \mu m$$
 
 $$R_{\text{pueff}} = 11176.47 \frac{\Omega}{\mu m}$$
 
@@ -61,7 +61,7 @@ $$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
 
 Para el P:
 
-$$3 \cdot 13931.89 \Omega \cdot 11.55 \times 10^{-16} F = 48.07 \ \text{ps}$$
+$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 50.96 \ \text{ps}$$
 ## Parte 2:
 
 ## Datos Relevantes
