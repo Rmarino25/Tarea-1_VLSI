@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Cargar el archivo .txt omitiendo las primeras dos filas y especificando el separador
-df = pd.read_csv('pmos.txt', skiprows=2, sep=',', skipinitialspace=True)
+df = pd.read_csv('VS.txt', skiprows=2, sep=',', skipinitialspace=True)
 
 # Renombrar las columnas para eliminar los espacios y los caracteres especiales
 df.columns = df.columns.str.replace(r'[^a-zA-Z0-9]+', '_')
