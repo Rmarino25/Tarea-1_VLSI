@@ -74,10 +74,12 @@ Ahora bien analizando la corriente que pasa por el transistor de tipo N, la pode
 
 Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de la relación de tamaño entre el transistor p y el n. Esta relación se encontró alrededor de 2.8 veces el tamaño del transistor p con respecto al n. Se encontró que al aumentar más la relación de 2.8/1 se reduce el tiempo de subida pero se empieza a aumentar el tiempo de bajada, perdiendo así la idea de que los dos tiempos, tanto el de subida como bajada, sean lo más cercanos posibles. Los tiempos obtenidos tanto en simulación como mediante hspice se pueden ver en las siguientes figuras.
 
-![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c)
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c" alt="AHHHHHHHHHHHHHHHHHHH"/>
+</p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e" alt="[YOUR_ALT_TEXT]"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e" alt="AHHHHHHHHHHHHHHHHHHH"/>
 </p>
 
 
