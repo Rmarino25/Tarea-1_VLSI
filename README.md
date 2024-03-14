@@ -63,7 +63,7 @@ Para el P:
 
 $$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 50.96 \ \text{ps}$$
 ## Parte 2:
-Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funciamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
+Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funcioamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/40297304-6ed0-4d2c-b9e2-d01c9d4f35ec)
 
 En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamiento "macro" del inversor.
