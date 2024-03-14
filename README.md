@@ -75,7 +75,7 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
 </p>
 
-Ahora bien analizando la corriente que pasa por el transistor de tipo N, la podemos graficar la curva característivca de la siguiente manera:
+Ahora bien analizando la corriente que pasa por el transistor de tipo N, podemos graficar la curva característivca de la siguiente manera:
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/ce6679be-bba1-4808-a52b-e00c02c8c602"/>
