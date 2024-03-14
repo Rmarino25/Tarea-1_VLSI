@@ -64,22 +64,31 @@ Para el P:
 $$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 50.96 \ \text{ps}$$
 ## Parte 2:
 Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funcioamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
-![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/40297304-6ed0-4d2c-b9e2-d01c9d4f35ec)
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/40297304-6ed0-4d2c-b9e2-d01c9d4f35ec"/>
+</p>
 
 En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamiento "macro" del inversor.
-![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb)
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
+</p>
 
 Ahora bien analizando la corriente que pasa por el transistor de tipo N, la podemos graficar la curva característivca de la siguiente manera:
-![curva](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/ce6679be-bba1-4808-a52b-e00c02c8c602)
+
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/ce6679be-bba1-4808-a52b-e00c02c8c602"/>
+</p>
 
 Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de la relación de tamaño entre el transistor p y el n. Esta relación se encontró alrededor de 2.8 veces el tamaño del transistor p con respecto al n. Se encontró que al aumentar más la relación de 2.8/1 se reduce el tiempo de subida pero se empieza a aumentar el tiempo de bajada, perdiendo así la idea de que los dos tiempos, tanto el de subida como bajada, sean lo más cercanos posibles. Los tiempos obtenidos tanto en simulación como mediante hspice se pueden ver en las siguientes figuras.
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c" alt="AHHHHHHHHHHHHHHHHHHH"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e" alt="AHHHHHHHHHHHHHHHHHHH"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e"/>
 </p>
 
 
