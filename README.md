@@ -69,6 +69,8 @@ Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño
 En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamiento "macro" del inversor.
 ![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb)
 
+Ahora bien analizando la corriente que pasa por el transistor de tipo N, la podemos graficar de la siguiente manera:
+![curva](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/ce6679be-bba1-4808-a52b-e00c02c8c602)
 
 
 ## Datos Relevantes
