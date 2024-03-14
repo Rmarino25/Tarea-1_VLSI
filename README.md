@@ -78,7 +78,7 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
 
 <p align="center">
     <!-- Your content goes here -->
-    <img src="[![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e)]" alt="[YOUR_ALT_TEXT]"/>
+    <img src="[https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e" alt="[YOUR_ALT_TEXT]"/>
 </p>
 
 
