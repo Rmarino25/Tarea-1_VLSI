@@ -27,7 +27,7 @@ $$\frac{1.8 \text{V}}{{475 \times 10^{-6} \text{A/um}} \cdot 0.36 \mu m}  = 1052
 
 Y la del P quedria:
 
-$$\frac{1.8 \text{V}}{{170 \times 10^{-6} \text{A/um}} \cdot 0.72 \mu m} = 13931.89 \Omega$$
+$$\frac{1.8 \text{V}}{{170 \times 10^{-6} \text{A/um}} \cdot 0.72 \mu m} = 14705.88 \Omega$$
 
 Ahora para determinar la resistencia unitaria se debe de multiplicar por por el ancho usado en este caso 0.36 \mu m para el N y 0.76 para el P 
 
@@ -37,7 +37,7 @@ $$R_{\text{nueff}} = 3789.47 \frac{\Omega}{\mu m}$$
 
 $$R_{\text{pueff}} = 13931.89 \\Omega \cdot 0.72 \mu m$$
 
-$$R_{\text{pueff}} = 10030.96 \frac{\Omega}{\mu m}$$
+$$R_{\text{pueff}} = 11176.47 \frac{\Omega}{\mu m}$$
 
 Ahora bien para calcular las capacitancias se puede determinar de la siguiente manera, siendo la más pesimista
 
