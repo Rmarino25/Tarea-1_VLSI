@@ -140,5 +140,3 @@ Para el P:
 
 $$ R = \frac{25.48 \ \text{ps}}{3 \times 11.55 \times 10^{-16} F} $$
 
-### Incluir figuras 
-![Logo](figuras/Firma_TEC.png)
