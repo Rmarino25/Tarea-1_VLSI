@@ -76,7 +76,7 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
 </p>
 
-Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación aproximada a 2.33. Está relación se puede determinar cuando el valor de $$V_{in}$$ es $$V_{DD}/2$$
+Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación aproximada a 2.33. Está relación se puede determinar cuando el valor de el valor del voltaje de entrada es 0.9 V
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/c47cd2d0-0b19-4d9b-a5d7-a9a9ca81e244"/>
@@ -91,11 +91,11 @@ Ahora bien analizando la corriente que pasa por el transistor de tipo N, podemos
 Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de la relación de tamaño entre el transistor p y el n. Esta relación se encontró alrededor de 2.8 veces el tamaño del transistor p con respecto al n. Se encontró que al aumentar más la relación de 2.8/1 se reduce el tiempo de subida pero se empieza a aumentar el tiempo de bajada, perdiendo así la idea de que los dos tiempos, tanto el de subida como bajada, sean lo más cercanos posibles. Los tiempos obtenidos tanto en simulación como mediante hspice se pueden ver en las siguientes figuras.
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/737b5224-d381-435d-9fe3-570fca60536c"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/e6717942-4686-4721-abf2-05574fdafb7f"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/23586a26-13ae-43c6-a159-c6e4515e38a5"/>
 </p>
 
 Seguidamente se realizaron simulaciones sobre las esquinas de variablidad del proceso, lo que da como resultado:
