@@ -29,7 +29,7 @@ Y la del P quedria:
 
 $$\frac{1.8 \text{V}}{{170 \times 10^{-6} \text{A/um}} \cdot 0.72 \mu m} = 14705.88 \Omega$$
 
-Ahora para determinar la resistencia unitaria se debe de multiplicar por por el ancho usado en este caso 0.36 \mu m para el N y 0.76 para el P 
+Ahora para determinar la resistencia unitaria se debe de multiplicar por el ancho usado, en este caso 0.36 micrometros para el N y 0.76 micrometros para el P 
 
 $$R_{\text{nueff}} = 10526.31 \Omega \cdot 0.36 \mu m$$
 
@@ -140,7 +140,7 @@ Para el N:
 
 $$R = \frac{16.548 \ \text{ps}}{3 \times 5.48 \times 10^{-16} F}$$
 
-$$R = 10065,69 \Omega}$$
+$$R = 10065,69 \Omega$$
 
 Para el P:
 
