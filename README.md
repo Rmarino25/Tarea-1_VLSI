@@ -98,7 +98,7 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e"/>
 </p>
 
-Seguidamente se realizaron simulaciones sobre las esquinas de varuablidad del proceso, lo que da como resultado:
+Seguidamente se realizaron simulaciones sobre las esquinas de variablidad del proceso, lo que da como resultado:
 
 &&&&&&&&&&&&&&imagen&&&&&&&&&&&&&&&&&&
 
