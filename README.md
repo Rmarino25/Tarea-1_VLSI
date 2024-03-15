@@ -140,9 +140,18 @@ Para el N:
 
 $$R = \frac{16.548 \ \text{ps}}{3 \times 5.48 \times 10^{-16} F}$$
 
+$$R = 10065,69 \Omega}$$
+
 Para el P:
 
 $$ R = \frac{19.664 \ \text{ps}}{\frac{3}{2} \times 11.55 \times 10^{-16} F} $$
+
+$$R = 11350,07 \Omega$$
+
+Analizando los valores que se determinarin de manera simulada o hecha manual, se puede concluir lo siguiente:
+
+Utilizando los valores que se sacaron manualmente, las resistencia dieron un valor más elevado, por lo cual de usar estos valores serían los utilizados en el peor de los casos, cubriendo un margen de error más amplio.
+Los valores simulados tienen la ventaja de que no quita mucho tiempo determinar los valores, por cual es más eficiente. Por otro lado en la simulación se desprecia las capacitancias parásitas.
 
 Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
 
