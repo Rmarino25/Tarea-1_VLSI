@@ -62,6 +62,7 @@ $$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
 Para el P:
 
 $$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
+
 ## Parte 2:
 Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funcioamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
 
@@ -74,6 +75,11 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
 </p>
+
+Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación %%%
+Está relación se puede determinar cuando el valor de V_{in} es V_{DD}/2
+
+&&&&&&&&&&&&&&imagen&&&&&&&&&&&&&&&&&&
 
 Ahora bien analizando la corriente que pasa por el transistor de tipo N, podemos graficar la curva característivca de la siguiente manera:
 
@@ -91,6 +97,10 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/f30aa16d-900e-4dc8-945f-f7b0db4eb34e"/>
 </p>
 
+Seguidamente se realizaron simulaciones sobre las esquinas de varuablidad del proceso, lo que da como resultado:
+
+&&&&&&&&&&&&&&imagen&&&&&&&&&&&&&&&&&&
+
 Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2/1 y se encontraron los tiempos de retardo, tanto de bajada como de subida.
 
 <p align="center">
@@ -107,27 +117,23 @@ Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/3c271f1d-368f-4707-8a12-c6a5449f3967"/>
 </p>
 
-## Datos Relevantes
-### Para generar listas
-* Punto 1
-* Punto 2
-* Punto 3
-## Solución
-### Para insertar código
-```python
-import time
-while True
-  print("This is a python code")
-  time.sleep(5)
-```
-## Resultados
-### Para insertar una tabla 
+Luego se montó el FO4 optimizado, lo cual hizo que se redujeran los tiempo de subida y bajada, dando como resultado las siguientes figuras:
 
-|  Info1  |  Info2  |  Info3  |  Info4  |
-|  :---  |  ---:  |  :---:  |  ---  |
-|  A  |  B  |  C  |  D  |
-|  AA  |  BB  |  CC  |  DD  |
+![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/983c4f64-87e3-4cb4-853f-84b6a9fe7dbf)
 
-## Análisis
+![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/4f2b4426-d4a3-4139-880d-ae37fb767024)
+
+////Conclussss/////
+
+$$\tau = 3 \cdot R \cdot C$$
+
+Para el N:
+
+$$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
+
+Para el P:
+
+$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
+
 ### Incluir figuras 
 ![Logo](figuras/Firma_TEC.png)
