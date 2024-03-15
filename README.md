@@ -127,10 +127,9 @@ Luego se montó el FO4 optimizado, lo cual hizo que se redujeran los tiempo de s
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/4f2b4426-d4a3-4139-880d-ae37fb767024"/>
 </p>
 
+A nivel de rendimiento, se puede notar que los tiempos de subida y bajada en el FO4 optimizado son menores. Esto significa que la señal se transmite más rápido. Además, considerando que los transistores estarán activos por menos tiempo, habrá una diferencia en términos de consumo de energía, ya que los transistores más grandes suelen consumir más energía.
 
-////Conclussss/////
-
-Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
+Al comparar los resultados del FO4 y el FO4 optimizado, la elección entre uno y otro dependerá de la arquitectura a la que se vaya a integrar.
 
 $$\tau = 3 \cdot R \cdot C$$
 
@@ -141,4 +140,6 @@ $$R = \frac{17.3 \ \text{ps}}{3 \times 5.48 \times 10^{-16} F}$$
 Para el P:
 
 $$ R = \frac{25.48 \ \text{ps}}{3 \times 11.55 \times 10^{-16} F} $$
+
+Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
 
