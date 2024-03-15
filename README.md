@@ -61,7 +61,7 @@ $$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
 
 Para el P:
 
-$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
+$$\frac{3}{2} \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
 
 ## Parte 2:
 Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funcioamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
@@ -131,7 +131,7 @@ A nivel de rendimiento, se puede notar que los tiempos de subida y bajada en el 
 
 Al comparar los resultados del FO4 y el FO4 optimizado, la elección entre uno y otro dependerá de la arquitectura a la que se vaya a integrar.
 
-$$\tau = 3 \cdot R \cdot C$$
+Ahora bien, utilizando los valores tiempos de subida y bajada con la relación 2/1, es posible determinar la resistencia de los transitores de la siguiente manera:
 
 Para el N:
 
