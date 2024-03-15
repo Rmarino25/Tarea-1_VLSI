@@ -76,7 +76,7 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
 </p>
 
-Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación aproximada a 2.33. Está relación se puede determinar cuando el valor de V_{in} es V_{DD}/2
+Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación aproximada a 2.33. Está relación se puede determinar cuando el valor de $$V_{in}$$ es $$V_{DD}/2$$
 
 <p align="center">
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/c47cd2d0-0b19-4d9b-a5d7-a9a9ca81e244"/>
@@ -111,7 +111,7 @@ Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2
 </p>
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/8cf57f1d-4042-458b-8551-d7e78e301c2d"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/49985f53-6395-4357-88d4-588aaf9d1d0d"/>
 </p>
 
  Ya teniendo los resultados del FO4, se varió la relación de tamaño p/n, obteniedo así diferentes valores de retardo para cada uno. Estos comportamientos se graficaron mediante un script de python, evidenciando la diferencia que existe en los tiempos de retardo.
