@@ -129,7 +129,8 @@ Luego se montó el FO4 optimizado, lo cual hizo que se redujeran los tiempo de s
 
 
 ////Conclussss/////
-Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de \tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
+
+Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
 
 $$\tau = 3 \cdot R \cdot C$$
 
