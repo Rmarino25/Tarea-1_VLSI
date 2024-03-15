@@ -101,13 +101,13 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
 Seguidamente se realizaron simulaciones sobre las esquinas de variablidad del proceso, lo que da como resultado:
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/6f7b1b3b-9950-45a3-bca9-b2679c4a86c1"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/1b8097d0-ea03-4b01-83b5-7b8c68e0bf30"/>
 </p>
 
 Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2/1 y se encontraron los tiempos de retardo, tanto de bajada como de subida.
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/1b8097d0-ea03-4b01-83b5-7b8c68e0bf30"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/106a434e-62ee-4127-9a83-b03fb425d542"/>
 </p>
 
 <p align="center">
