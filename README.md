@@ -76,10 +76,11 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
     <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110320407/dd250a39-cf4c-4e9f-8a62-de82065af6fb"/>
 </p>
 
-Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación %%%
+Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación 2.33
 Está relación se puede determinar cuando el valor de V_{in} es V_{DD}/2
 
-&&&&&&&&&&&&&&imagen&&&&&&&&&&&&&&&&&&
+<img width="710" alt="image" src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/cced5c12-23c1-4225-a7cc-ed54e94d091e">
+
 
 Ahora bien analizando la corriente que pasa por el transistor de tipo N, podemos graficar la curva característivca de la siguiente manera:
 
