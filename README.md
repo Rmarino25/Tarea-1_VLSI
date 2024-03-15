@@ -61,7 +61,7 @@ $$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
 
 Para el P:
 
-$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 50.96 \ \text{ps}$$
+$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
 ## Parte 2:
 Con respecto al inversor, se diseñó uno a nivel de esquemático, de un tamaño mínimo permitido por la tecnología propuesta. El funcionamiento del mismo se puede ver en las siguientes figuras, donde en la primera se logra apreciar el funcioamiento del inversor en un único pulso, mostrando así con más detalle el comportamiento del voltaje de salida.
 
