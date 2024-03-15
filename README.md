@@ -79,7 +79,7 @@ En la segunda imagen, se crea un tren de pulsos, mostrando así un funcionamient
 Simulando diferentes relaciones de tamaño para el inversor, nos da como resultado la siguiente gráfica. El transistor mínimo se encuentra en una relación aproximada a 2.33. Está relación se puede determinar cuando el valor de V_{in} es V_{DD}/2
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/cced5c12-23c1-4225-a7cc-ed54e94d091e"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/c47cd2d0-0b19-4d9b-a5d7-a9a9ca81e244"/>
 </p>
 
 Ahora bien analizando la corriente que pasa por el transistor de tipo N, podemos graficar la curva característivca de la siguiente manera:
@@ -100,7 +100,9 @@ Posteriormente, se ejecutaron varias iteraciones, buscando un valor óptimo de l
 
 Seguidamente se realizaron simulaciones sobre las esquinas de variablidad del proceso, lo que da como resultado:
 
-&&&&&&&&&&&&&&imagen&&&&&&&&&&&&&&&&&&
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/6f7b1b3b-9950-45a3-bca9-b2679c4a86c1"/>
+</p>
 
 Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2/1 y se encontraron los tiempos de retardo, tanto de bajada como de subida.
 
