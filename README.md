@@ -107,7 +107,7 @@ Seguidamente se realizaron simulaciones sobre las esquinas de variablidad del pr
 Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2/1 y se encontraron los tiempos de retardo, tanto de bajada como de subida.
 
 <p align="center">
-    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/3d778cad-cbb2-4f79-880d-1b3cf675e687"/>
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/1b8097d0-ea03-4b01-83b5-7b8c68e0bf30"/>
 </p>
 
 <p align="center">
