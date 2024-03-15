@@ -139,7 +139,7 @@ $$R = \frac{17.3 \ \text{ps}}{3 \times 5.48 \times 10^{-16} F}$$
 
 Para el P:
 
-$$ R = \frac{25.48 \ \text{ps}}{3 \times 11.55 \times 10^{-16} F} $$
+$$ R = \frac{25.48 \ \text{ps}}{\frac{3}{2} \times 11.55 \times 10^{-16} F} $$
 
 Como tal, al aumentar el tamaño del transistor, se puede apreciar una disminución de tau ya que la resistencia decrece. Esto es verdadero hasta cierto punto, ya que conforme se aumenta el tamaño del transistor, aumenta la capacitancia también. De este decremento y aumento de los valores es necesario encontrar el "sweet spot" para poder balancear los tiempos de subida y caída.
 
