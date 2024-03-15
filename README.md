@@ -119,9 +119,14 @@ Con respecto al FO4, se ejecutó el deck de SPICE manteniendo una relación de 2
 
 Luego se montó el FO4 optimizado, lo cual hizo que se redujeran los tiempo de subida y bajada, dando como resultado las siguientes figuras:
 
-![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/983c4f64-87e3-4cb4-853f-84b6a9fe7dbf)
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/983c4f64-87e3-4cb4-853f-84b6a9fe7dbf"/>
+</p>
 
-![image](https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/4f2b4426-d4a3-4139-880d-ae37fb767024)
+<p align="center">
+    <img src="https://github.com/Rmarino25/Tarea-1_VLSI/assets/110353604/4f2b4426-d4a3-4139-880d-ae37fb767024"/>
+</p>
+
 
 ////Conclussss/////
 
@@ -129,11 +134,11 @@ $$\tau = 3 \cdot R \cdot C$$
 
 Para el N:
 
-$$3 \cdot 10526.31 \Omega \cdot 5.48 \times 10^{-16} F = 17.3 \ \text{ps}$$
+$$R = \frac{17.3 \ \text{ps}}{3 \times 5.48 \times 10^{-16} F}$$
 
 Para el P:
 
-$$3 \cdot 14705.88 \Omega \cdot 11.55 \times 10^{-16} F = 25.48 \ \text{ps}$$
+$$ R = \frac{25.48 \ \text{ps}}{3 \times 11.55 \times 10^{-16} F} $$
 
 ### Incluir figuras 
 ![Logo](figuras/Firma_TEC.png)
